@@ -24,7 +24,7 @@ Notes:
 
 In "testing" folder,
 <ul>
-<li>```Venmurasu_Indexing.ipynb``` file contains the legacy testing and implementaion of the algorithm</li>
-<li>```WordSplitting.ipynb``` file contains code specific to word splitting algorithm</li>
-<li>```Indexing_Metrices.ipynb``` files contains calculating the efficiency of result</li>
+<li>Venmurasu_Indexing.ipynb file contains the legacy testing and implementaion of the algorithm</li>
+<li>WordSplitting.ipynb file contains code specific to word splitting algorithm</li>
+<li>Indexing_Metrices.ipynb files contains calculating the efficiency of result</li>
 </ul>
